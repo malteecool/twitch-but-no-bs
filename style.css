@@ -4,12 +4,12 @@ body {
 
 #twitch-embed {
     width: 70%;
-    height: 100vh;
+    height: 35vh;
     margin: auto;
 }
 
 #chat-area {
     width: 70%;
     margin: auto;
-    height: 50vh;
+    height: 63vh;
 }
